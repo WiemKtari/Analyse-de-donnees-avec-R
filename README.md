@@ -1,4 +1,4 @@
-# Analyse-de-donnees-avec-R
+# Analyse-de-donnees-avec-R ( Economic Analysis for top 6 economies in the world by GDP)
 
 The economic analysis of major global powers is crucial for understanding global economic dynamics. In this project, we leverage an extensive dataset compiled from World Bank data to analyze economic trends over a 30-year period from 1990 to 2020.
 
@@ -38,4 +38,5 @@ Population, total: Total population represents the total number of inhabitants i
 Population growth (annual %): Population growth rate measures the annual change in the number of inhabitants in a country, expressed as a percentage.
 
 Life expectancy at birth, total (years): Life expectancy at birth represents the average number of years a newborn can expect to live, assuming current mortality rates remain unchanged.
+
 Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population): The poverty headcount ratio measures the proportion of the population living below the international poverty line of $1.90 per day, adjusted for purchasing power parity, expressed as a percentage of the total population.
